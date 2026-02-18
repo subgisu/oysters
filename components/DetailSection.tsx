@@ -9,7 +9,7 @@ const DetailSection: React.FC = () => {
       {/* 1. Main Hero Banner - Magazine Style */}
       <div className="w-full relative aspect-[4/5] md:aspect-video overflow-hidden group">
         <img 
-          src="https://picsum.photos/1200/1000?random=1" 
+          src="/oysters/images/tongyeong.jpg"
           alt="Main Hero" 
           className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" 
         />
