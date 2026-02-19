@@ -84,9 +84,7 @@ const DetailSection: React.FC = () => {
            
            <div className="flex items-end justify-center gap-4 md:gap-12 relative">
               <div className="flex flex-col items-center opacity-50">
-                <div className="w-16 h-16 rounded-full border-2 border-dashed border-gray-400 flex items-center justify-center bg-gray-100 mb-3">
-                  <span className="text-xs font-bold text-gray-500">100원 동전</span>
-                </div>
+                <img src="/oysters/images/small.png" className="w-20 h-20 object-cover rounded-full border-2 border-gray-300 mb-3" alt="일반 사이즈" />
                 <span className="text-sm font-medium">일반 사이즈</span>
               </div>
               
@@ -96,7 +94,7 @@ const DetailSection: React.FC = () => {
                  <div className="absolute -top-6 -right-6 bg-red-500 text-white text-[10px] font-bold px-2 py-1 rounded-full animate-bounce">
                    MD 강력 추천
                  </div>
-                 <img src="https://picsum.photos/200/200?random=302" className="w-32 h-32 object-cover rounded-full shadow-xl mb-3 border-4 border-white" alt="Premium Size" />
+                 <<img src="/oysters/images/large.png" className="w-32 h-32 object-cover rounded-full shadow-xl mb-3 border-4 border-white" alt="Premium Size" />
                  <span className="text-lg font-black text-blue-900">더신선 프리미엄</span>
                  <p className="text-xs text-blue-600 font-bold mt-1">숟가락을 꽉 채우는 크기!</p>
               </div>
