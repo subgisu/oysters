@@ -94,7 +94,7 @@ const DetailSection: React.FC = () => {
                  <div className="absolute -top-6 -right-6 bg-red-500 text-white text-[10px] font-bold px-2 py-1 rounded-full animate-bounce">
                    MD 강력 추천
                  </div>
-                 <<img src="/oysters/images/large.png" className="w-32 h-32 object-cover rounded-full shadow-xl mb-3 border-4 border-white" alt="Premium Size" />
+                 <img src="/oysters/images/large.png" className="w-32 h-32 object-cover rounded-full shadow-xl mb-3 border-4 border-white" alt="Premium Size" />
                  <span className="text-lg font-black text-blue-900">더신선 프리미엄</span>
                  <p className="text-xs text-blue-600 font-bold mt-1">숟가락을 꽉 채우는 크기!</p>
               </div>
