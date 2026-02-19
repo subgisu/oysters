@@ -7,7 +7,7 @@ export const PRODUCT_POINTS: ProductPoint[] = [
     title: "새벽 이슬 맞으며 조업한\n당일 산지직송 햇생굴",
     subtitle: "바다에서 식탁까지 단 하루",
     description: "통영 앞바다의 신선함을 그대로 담았습니다. 매일 새벽, 어부의 거친 손으로 건져 올린 생굴을 당일 손질하여 바로 보내드립니다. 뚜껑을 여는 순간 퍼지는 바다 내음을 경험해보세요.",
-    image: "https://picsum.photos/800/600?random=1"
+    <img src="/oysters/images/oyster_17.jpg"
   },
   {
     id: 2,
